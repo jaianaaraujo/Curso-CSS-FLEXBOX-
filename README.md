@@ -3,9 +3,9 @@
 Link do projeto final: https://jaianaaraujo.github.io/CSS-FLEXBOX-UDEMY/
 
 <h2> Sobre o curso: </h2>
-aprender como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. Assim não precisarei mais definir valores fixos e flutuar elementos para criar o meu layout.
+Aprendi como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. Assim não precisarei mais definir valores fixos e flutuar elementos para criar o meu layout.
 
-Iniciou o curso com os fundamentos, ensinando todas as propriedades e o que elas fazem no CSS. Após estes criei um projeto real para colocar em prática o aprendizado.
+Iniciei  o curso com os fundamentos, ensinando todas as propriedades e o que elas fazem no CSS. Após estes criei um projeto real para colocar em prática o aprendizado.
 
 <h3> Grade do curso </h3>
 
