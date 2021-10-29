@@ -1,0 +1,30 @@
+//****************** ALIGN-ITEMS
+
+- ele alinha os flex itens de cordo com o eixo do container. O alinhamento é iferente para quando os itens estão em colunas ou linhas
+/ essa propriedade permite que o alinhamento central no eixo vertical, algo que ates só era possivel com diferentes hacks 
+
+
+
+// **** ALIGN-ITEMS: STRECH (esticar)
+
+- valor padrão, ele que faz com que os flex itens cresçam igualmente
+
+// **** ALIGN-ITEMS: FLEX-START
+
+- Alinha os itens ao início
+
+// **** ALIGN-ITEMS: FLEX-END
+
+- alinha os itens ao final
+
+// **** ALIGN-ITEMS: CENTER
+
+- Alinha os itens ao centro
+
+// **** ALIGN-ITEMS: BASELINE
+
+- Alinha os itens de acordo com a linha base da tipografia 
+
+***** COMO FAÇO PARA ALINHAR TOTALMENTE AO CENTRO?
+
+aligin-items: center e justify-content: center

@@ -1,0 +1,27 @@
+//****************** FLEX-DIRECTION *****************
+
+O que é? Ele vai definir as direções que os flex-itens terão.
+
+//***** FLEX-DIRECTION : ROW
+- por padrão ele é row, ou seja, é linha. Quando colocomos display flex ele já fica em linha, mas normalmente, quando trabalhamos com mable, celular, o melhor é mudar o flex-direction para column
+
+- se eu coloco na class container row, ele ficará com row pq é o padrão
+
+// ***** FLEX-DIRECTION : REVARSE
+
+-- O revaser ele vai manter a linha mas de forma reversa 
+ex:    1 2 3 4 5 
+       5 4 3 2 1 = ele ficará assim
+
+
+// ***** FLEX-DIRECTION : COLUMN
+
+- ele volta para colua, fica até parecendo que está usando display block
+
+// ***** FLEX-DIRECTION : COLUMN-REVERSE
+
+- que é em coluna  e reverso os dois juntos 
+
+Obs: quando colocamos felx:1 é para que ele ocupe ponta a ponta do container 
+
+

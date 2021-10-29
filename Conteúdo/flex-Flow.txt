@@ -1,0 +1,20 @@
+//****************** FLEX-FLOW
+
+// o que é? ela é apenas um atalho para a propriedade flex-direction e  a propriedade flex-wrap
+
+DETALHE! quando a gente mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowwrap
+         e quando mudamos o flex-wrap para wrap, mantemos o padrão do flex-direction que é row.
+
+
+// ****** FLEX-FLOW: ROW NOWRAP
+coloca o conteúdo em linha e  não permite quera de linha
+
+
+// ****** FLEX-FLOW: ROW WRAP
+
+coloca o conteudo em linha e permite a quebra de linha
+
+
+// ***** FLEX-FLOW: COLUMN NOWRAP
+ coloca o conteudo em coluna e não permite  quebra de linha
+

@@ -1,0 +1,41 @@
+
+// **************** JUSTIFY-CONTENT
+
+É para alinhar  os intens flex no container de acordo com a direção. 
+- ele só funciona se os itens atuais não ocuparem todo o container. Isso significa que ao definir o flex:1, ou algo similar nos itens, a propriedade não terá mais função
+
+QUANDO USAR? pode ser usada em casosque você deseja alinhar um item na ponta esquerda e outro na ponta direita, como em um simples header com marca e navegação
+
+
+// *****  JUSTIFY-CONTENT: FLEX-START; (é padrão_)
+
+- alinha os itens ao inicio do container
+
+// *****  JUSTIFY-CONTENT: FLEX-END 
+
+- alinha os itens ao final do container(caso queiramos dar espaço entre um e outro podemo utilizar a margim)
+
+// *****  JUSTIFY-CONTENT: CENTER
+
+- alinha os itens no centro do container 
+
+// *****  JUSTIFY-CONTENT: SPACE-BETWEEN;
+
+- cria um espaçamento entre os elementos. Os espaçamentos do meio são duas vezes maiores que o inicial e final.
+
+// *****  JUSTIFY-CONTENT: SPACE-AROUND
+
+(Quando ele está em flex:1 dará o around de forma que ocupe todo o container )
+
+
+
+
+
+
+
+
+
+
+
+
+

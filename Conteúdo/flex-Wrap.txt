@@ -1,0 +1,10 @@
+********************************** FLEX WRAP *********************************
+
+- Decide se quebra linha ou não 
+
+** Flex-wrap: nowrap = valo padrão, não permite a quebra e linha 
+
+** flex-wrap: wrap = Quebra a linha assim que um dos flex itens não puder mais ser compactado
+
+** flex-wrap: wrap-reverse = quebra a linha assim que um dos flex itens não puder mais ser compactado. 
+A quebra é na direção contrária, ou seja para a linha reta

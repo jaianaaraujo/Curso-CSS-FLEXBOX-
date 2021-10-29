@@ -1,0 +1,26 @@
+// ***************** ALIGN CONTENT
+
+O que é? A propriedade só funciona se existe mais de uma linha de flex-itens. Para isso o flax-wrap precisa ser wrap. 
+
+- O efeito só será visualizado caso o container seja maior que a soma das linhas dos itens. Isso significa que se você não definir HEIGHT para o container, a propriedade não influencia no layout
+
+
+// **** ALIGN-CONTENT: STRECH
+
+- Valor padrão, ele que faz com que os flex itens cresçam igualmente na vertical
+
+// **** ALIGN-CONTENT: FLEX-START
+
+- alinha todas as linhas itens ao inicio
+
+// **** ALIGN-CONTENT: FLEX-END
+
+- alinha todas as linhas itens no final
+
+// **** ALIGN-CONTENT: CENTER
+
+- alinha todas as linhas dos itens ao centro
+
+// **** ALIGN-CONTENT: SPACE-AROUND
+
+- criar um espaçamento entre as linhas. os espaçamentos do meio são duas vezes maiores que o top e bottom

@@ -1,0 +1,17 @@
+// *********** FLEXBOX  ************
+
+CLICA NESSE SITE: https://origamid.com/projetos/flexbox-guia-completo/
+
+-> Exitem duas classificações de FLEXBOX, que é: FEX CONTAINER e FLEX ITEM
+
+** FLEX CONTAINER: é a tag que envolve is itens flex, ao indicar display: fex, essa tag passa a ser um fex CONTAINER
+** FLEX CONTAINER:
+      * display: define o elemento como um flex container, tornando os seus filhos flex-itens 
+      - Display block, ele vai ocupar todo o espaço
+      - Display flex: ee ocupa o espaço onte está o conteúdo, um do lado do outro
+
+** FLEX WRAP
+- Quando não couber, ele vai quebrando a linha para se encaixar
+
+** FLEX ITEM
+-- Nos permite colocar do tamanho do conteúdo, assim como além 
